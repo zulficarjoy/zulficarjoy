@@ -25,5 +25,4 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/zulficarjoy/)
 &nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/zulficarjoy) 
 
-![zulficarjoy github stats](https://github-readme-stats.vercel.app/api?username=zulficarjoy&show_icons=true&hide_border=true)
 
