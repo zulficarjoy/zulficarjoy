@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-- **I'm a Full Stack Software Developer/Creative Thinker**  
+- **Open Source Contributor/Full Stack Software Developer/Creative Thinker**
 
-- Dedicated and efficient full stack developer with 4+ years experience in application layers, presentation layers, and databases. Certified in both F/E and B/E technologies. I have done projects for various clients under various domains.I have hands-on experience in MERN Stack, Javascript,Python, Django, PHP, Laravel, WordPress, Joomla, Mysql, Photoshop, Illustrator. 
+- Dedicated and efficient full-stack developer with several years of experience in application layers, presentation layers, and databases. Certified in both F/E and B/E technologies. I have done projects for various clients under various domains. I have hands-on experience in PHP, Javascript, Odoo, Laravel, React, Vue, WordPress, Joomla, Shopify, Mysql, PostgreSQL, MongoDB
 - ✓ Open for Freelancer works.
 - 📫 Reach me: zulficarjoy@gmail.com 
 
